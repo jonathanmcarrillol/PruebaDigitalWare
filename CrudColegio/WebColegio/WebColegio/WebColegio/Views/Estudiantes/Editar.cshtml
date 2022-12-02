@@ -1,0 +1,43 @@
+﻿@model List<Entity.EstudiantesMateriasGradosEntity>
+@{
+    ViewBag.Title = "Materias Estudiante " ;
+}
+
+<h2>@ViewBag.Title : @ViewData["Estudiante"]</h2>
+
+
+<div class="row">
+    <div class="col-md-12">
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Materia</th>
+                    <th scope="col">Grado</th>
+                    <th scope="col">Nota</th>
+                    <th scope="col">Opciones</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <th> @item.EstudiantesMateriasGradosId</th>
+                    <th> @item.MateriaNombre</th>
+                    <th> @item.Grado</th>
+
+                    <th> @item.Notas</th>
+                    <th> <a class="btn btn-danger" href="~/Estudiantes/Eliminar/@item.EstudiantesMateriasGradosId "> Eliminar </a></th>
+
+
+                </tr>
+                }
+            </tbody>
+        </table>
+        <a class="btn btn-primary" href="~/Estudiantes/">Cancelar</a>
+    </div>
+
+

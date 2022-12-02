@@ -1,0 +1,11 @@
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Controlador.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Entity.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Modelo.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Entity.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\obj\Debug\Controlador.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Controlador\obj\Debug\Controlador.pdb

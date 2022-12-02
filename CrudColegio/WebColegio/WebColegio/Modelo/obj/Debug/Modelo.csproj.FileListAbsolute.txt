@@ -1,0 +1,9 @@
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\bin\Debug\Modelo.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\bin\Debug\Entity.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\bin\Debug\Entity.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\obj\Debug\Modelo.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\CrudColegio\WebColegio\WebColegio\Modelo\obj\Debug\Modelo.pdb

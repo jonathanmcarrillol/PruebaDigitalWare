@@ -1,0 +1,26 @@
+﻿@model Entity.EstudiantesMateriasGradosEntity
+@{
+    ViewBag.Title = "Nueva Nota";
+}
+
+<h2>Nuevo</h2>
+
+@using (Html.BeginForm("Nuevo", "Estudiantes", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            @Html.LabelFor(d => d.EstudianteId);
+            @Html.TextBoxFor(d => d.EstudianteId, "", new { @class = "form-control" })
+            @Html.LabelFor(d => d.MateriasGradosId);
+            @Html.TextBoxFor(d => d.MateriasGradosId, "", new { @class = "form-control" })
+            @Html.LabelFor(d => d.Notas);
+            @Html.TextBoxFor(d => d.Notas, "", new { @class = "form-control" })
+
+            <div class="mt-1">
+                 <input value="Guardar" type="submit" class="btn btn-primary"  />
+            </div>
+        </div>
+
+    </div>
+}
+

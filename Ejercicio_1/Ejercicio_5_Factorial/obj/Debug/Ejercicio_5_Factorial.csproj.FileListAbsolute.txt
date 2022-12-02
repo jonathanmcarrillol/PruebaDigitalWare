@@ -1,0 +1,7 @@
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\bin\Debug\Ejercicio_5_Factorial.exe.config
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\bin\Debug\Ejercicio_5_Factorial.exe
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\bin\Debug\Ejercicio_5_Factorial.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\obj\Debug\Ejercicio_5_Factorial.csprojAssemblyReference.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\obj\Debug\Ejercicio_5_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\obj\Debug\Ejercicio_5_Factorial.exe
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_5_Factorial\obj\Debug\Ejercicio_5_Factorial.pdb

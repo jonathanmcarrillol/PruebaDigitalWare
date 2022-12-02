@@ -1,0 +1,7 @@
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\bin\Debug\Ejercicio_6_Burbuja.exe.config
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\bin\Debug\Ejercicio_6_Burbuja.exe
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\bin\Debug\Ejercicio_6_Burbuja.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\obj\Debug\Ejercicio_6_Burbuja.csprojAssemblyReference.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\obj\Debug\Ejercicio_6_Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\obj\Debug\Ejercicio_6_Burbuja.exe
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\Ejercicio_1\Ejercicio_6_Burbuja\obj\Debug\Ejercicio_6_Burbuja.pdb

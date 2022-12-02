@@ -1,0 +1,17 @@
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.deps.json
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.pdb
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.AssemblyInfoInputs.cache
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.AssemblyInfo.cs
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.dll
+C:\Users\Frg01admticse01\Desktop\Jonathan_Manuel_Carrillo_Leon\ApiPruebaDW\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.pdb
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.deps.json
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.dll
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\bin\Debug\netcoreapp2.2\ModelosEntity.pdb
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.csprojAssemblyReference.cache
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.csproj.CoreCompileInputs.cache
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.AssemblyInfoInputs.cache
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.AssemblyInfo.cs
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.dll
+C:\Users\Frg01admticse01\Desktop\otro\ModelosEntity\obj\Debug\netcoreapp2.2\ModelosEntity.pdb
